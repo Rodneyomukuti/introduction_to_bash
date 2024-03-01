@@ -1,0 +1,5 @@
+Total number of nucleotides: 1620657
+A: 430790
+C: 369142
+G: 387762
+T: 432930
